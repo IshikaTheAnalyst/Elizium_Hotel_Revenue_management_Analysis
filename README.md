@@ -1,4 +1,4 @@
-![image](https://github.com/IshikaTheAnalyst/Elizium_Hotel_Revenue_management_Analysis/assets/124504919/59d64ab0-6557-431c-83fc-02a720319d78)# Elizium_Hotel_Revenue_Management_Analysis
+# Elizium_Hotel_Revenue_Management_Analysis
 
 Business Understanding:
 The business understanding is to help Elizium Hotels improve their business performance and regain market share by leveraging Business and Data Intelligence. This involves analyzing past data to identify key insights and trends that can guide management decisions. The goal is to increase revenue, optimize operations, and enhance customer satisfaction.
